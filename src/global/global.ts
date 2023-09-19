@@ -1,1 +1,1 @@
-export const AV_API_KEY = 'QU8X8D0GPA4B85IX';
+export const AV_API_KEY = 'YOUR_alphavantage_KEY';
